@@ -1,0 +1,37 @@
+{
+  "canal": "Men Don't Say",
+  "fecha": "2026-11-26",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-26_1_two-cups.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/men-dont-say/main/2026-11-26/2026-11-26_1_two-cups.mp4",
+      "publicar_en": "2026-11-26T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "Some mornings I still make two cups",
+      "descripcion": "Habits outlive people. You unlearn them one morning at a time.\nIf you're going through it, talk to someone you trust or a professional.\n\n#Shorts #breakup #selfimprovement",
+      "hashtags": [
+        "#Shorts",
+        "#breakup",
+        "#selfimprovement"
+      ],
+      "etiquetas": [
+        "breakup",
+        "living alone",
+        "loneliness",
+        "moving on",
+        "habits",
+        "missing her",
+        "heartbreak",
+        "men's feelings"
+      ],
+      "categoria_id": "22",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "What habit of hers did you keep after she left?",
+      "duracion_s": 40
+    }
+  ]
+}

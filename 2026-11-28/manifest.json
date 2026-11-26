@@ -1,0 +1,37 @@
+{
+  "canal": "Men Don't Say",
+  "fecha": "2026-11-28",
+  "videos": [
+    {
+      "orden": 1,
+      "archivo": "2026-11-28_1_41-times.mp4",
+      "url_descarga": "https://raw.githubusercontent.com/lavidademiga-source/men-dont-say/main/2026-11-28/2026-11-28_1_41-times.mp4",
+      "publicar_en": "2026-11-28T18:00:00+01:00",
+      "zona_horaria": "Europe/Madrid",
+      "titulo": "I checked her profile 41 times that day",
+      "descripcion": "I wasn't looking at her. I was looking for proof I still mattered to her.\n\n#Shorts #breakup #relationships",
+      "hashtags": [
+        "#Shorts",
+        "#breakup",
+        "#relationships"
+      ],
+      "etiquetas": [
+        "breakup",
+        "getting over her",
+        "checking her profile",
+        "moving on",
+        "heartbreak",
+        "men's feelings",
+        "after a breakup",
+        "self respect"
+      ],
+      "categoria_id": "22",
+      "idioma": "en",
+      "para_ninos": false,
+      "contenido_sintetico_realista": false,
+      "privacidad_hasta_publicar": "private",
+      "comentario_fijado": "What's the one thing you kept checking after it ended?",
+      "duracion_s": 38
+    }
+  ]
+}
